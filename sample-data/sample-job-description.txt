@@ -1,0 +1,21 @@
+Software Engineer
+
+Requirements:
+
+• 3+ years experience
+
+• Python
+
+• SQL
+
+• REST APIs
+
+• Git
+
+• Docker
+
+• Cloud Platforms
+
+Responsibilities:
+
+Develop scalable backend applications, REST APIs and automation solutions while collaborating with cross-functional teams.
