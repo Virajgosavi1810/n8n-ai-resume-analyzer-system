@@ -1,0 +1,16 @@
+{
+  "candidate_name":"John Doe",
+  "skills_match":"90%",
+  "experience":"5 Years",
+  "education":"Bachelor of Engineering",
+  "ats_score":92,
+  "strengths":[
+      "Python",
+      "REST APIs",
+      "AWS"
+  ],
+  "weaknesses":[
+      "Limited Frontend Experience"
+  ],
+  "recommendation":"Shortlist"
+}
